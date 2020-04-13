@@ -1,0 +1,20 @@
+
+.ladoA {
+	transform: scaleX(1);
+}
+
+.ladoB {
+	transform: scaleX(-1);
+}
+
+
+.p-4{
+	font-family: 'Bangers';
+	font-size: 18px;
+	color: red;
+}
+
+body {
+	
+	cursor: url(imagens/mata_mosca.png) 30 30, auto;
+}
